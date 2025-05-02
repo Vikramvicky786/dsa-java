@@ -19,3 +19,27 @@ This repository is my daily grind to crack **Google** and land the highest fresh
 ---
 
 ## 📁 Folder Structure
+
+
+---
+## Each file includes:
+- 🔍 Problem link  
+- 💡 Logic explained  
+- ⏱ Time & space complexity  
+
+## 📊 Solved Topics
+...
+
+## 🚀 My Goal
+- Become Google-ready in 6 months
+...
+
+## 🔗 Profiles
+- 🔸 [My LeetCode](https://leetcode.com/u/Vikramvicky7/)
+- 🔸 [My GitHub](https://github.com/Vikramvicky786)
+
+## 🟩 GitHub Activity
+Stay tuned — daily commits incoming! 💻💥
+
+## 📌 Note
+Feel free to fork this repo and start your own journey. Let’s get better together. 💪
